@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23015" started-at="2020-01-30T16:02:26 IST" finished-at="2020-01-30T16:02:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23015" started-at="2020-01-30T16:02:26 IST" finished-at="2020-01-30T16:02:49 IST">
+      <class name="com.training.sanity.tests.FilterOrderDetailsTest">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.FilterOrderDetailsTest@6321e813]" name="setUpBeforeClass" is-config="true" duration-ms="12048" started-at="2020-01-30T16:02:26 IST" finished-at="2020-01-30T16:02:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="filterOrder()[pri:0, instance:com.training.sanity.tests.FilterOrderDetailsTest@6321e813]" name="filterOrder" duration-ms="9030" started-at="2020-01-30T16:02:38 IST" finished-at="2020-01-30T16:02:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterOrder -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.FilterOrderDetailsTest@6321e813]" name="tearDown" is-config="true" duration-ms="1875" started-at="2020-01-30T16:02:48 IST" finished-at="2020-01-30T16:02:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.FilterOrderDetailsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
